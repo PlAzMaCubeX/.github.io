@@ -11,6 +11,9 @@ categories: 게시판
 
 [코딩]
 Codeup : https://codeup.kr/userinfo.php?user=jswge2_8
+
 BaekJoon : https://www.acmicpc.net/user/dj035
+
 Koistudy(잘 접속 안함.) : http://koistudy.net/?mid=view_prob&id=dj035
+
 Codeforces : https://codeforces.com/profile/PlAzMaCubeX
