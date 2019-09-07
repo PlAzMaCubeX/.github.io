@@ -16,4 +16,4 @@ BaekJoon : https://www.acmicpc.net/user/dj035
 
 Koistudy(잘 접속 안함.) : http://koistudy.net/?mid=view_prob&id=dj035
 
-Codeforces : https://codeforces.com/profile/PlAzMaCubeX
+Codeforces : https://codeforces.com/profile/DJ_035
